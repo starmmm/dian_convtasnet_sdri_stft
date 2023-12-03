@@ -3,6 +3,8 @@ egs/*/exp
 
 tools/sph2pipe_v2.5
 tools/create-speaker-mixtures
+mytest_audio
+shan
 
 nohup.out
 __pycache__
